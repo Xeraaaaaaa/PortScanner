@@ -1,6 +1,6 @@
 import PortScanner
 
-ip = '192.168.140.129 , 127.0.0.1 , 192.168.140.255'
+ip = 'www.google.com' # Can be written as IP Address or website. Websites will be converted into their IP Address.
 firstPort = 1
 lastPort = 100
 
